@@ -1,1 +1,1 @@
-Teste
+Olá, nesse projeto eu aprendo a utilizar o Git
